@@ -1,17 +1,30 @@
 @font-face {
-    font-family: "RobotoBold";
-    src: url("../fonts/Roboto-Bold.ttf") format("truetype");
+    font-family:"Estedad";
+    src: url(../fonts/estedad/Estedad-Medium.ttf) format("truetype");
 }
+
 @font-face {
-    font-family: "RobotoMedium";
-    src: url("../fonts/Roboto-Medium.ttf") format("truetype");
+    font-family:"EstedadLight";
+    src: url(../fonts/estedad/Estedad-Light.ttf) format("truetype");
 }
+
 @font-face {
-    font-family: "RobotoRegular";
-    src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+    font-family:"EstedadExteraLight";
+    src: url(../fonts/estedad/Estedad-ExtraLight.ttf) format("truetype");
 }
 
 
 body {
-    font-family: 'RobotoRegular';
+    font-family: 'Estedad';
+}
+
+.font-light-estedad {
+    font-family: "EstedadLight";
+    margin: 10px auto;
+    padding-right: 50px;
+    margin-right: 99px;
+}
+
+.font-light-estedadd {
+    font-family: "EstedadLight";
 }

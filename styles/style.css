@@ -1,9 +1,0 @@
-#SearchBtn {
-    background-color: #f97316; /* Tailwind's orange-500 */
-    color: white;
-    transition: background-color 0.3s ease;
-}
-
-#SearchBtn:hover {
-    background-color: #ea580c; /* Tailwind's orange-600 */
-}
